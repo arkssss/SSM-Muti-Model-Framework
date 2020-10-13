@@ -11,7 +11,7 @@
 
    <properties>
         <!--jar包版本控制-->
-        <junit.version>4.9</junit.version>
+        <junit.version>4.13.1</junit.version>
         <javaee-api.version>7.0</javaee-api.version>
         <jstl.version>1.2</jstl.version>
         <jsp-api.version>2.3.1</jsp-api.version>
