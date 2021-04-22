@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
     <properties>
         <!--jar包版本-->
-        <mybatis.version>3.3.0</mybatis.version>
+        <mybatis.version>3.5.6</mybatis.version>
         <mybatis-spring.version>1.2.3</mybatis-spring.version>
         <pagehelper.version>4.1.4</pagehelper.version>
         <!--  mysql 版本需要更改 -->
