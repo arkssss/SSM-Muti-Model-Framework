@@ -13,7 +13,7 @@
         <mybatis-spring.version>1.2.3</mybatis-spring.version>
         <pagehelper.version>4.1.4</pagehelper.version>
         <!--  mysql 版本需要更改 -->
-        <mysql-connector.version>8.0.16</mysql-connector.version>
+        <mysql-connector.version>8.0.28</mysql-connector.version>
         <druid.version>1.1.2</druid.version>
 
 
