@@ -21,7 +21,7 @@
 
     <properties>
         <!--jar包版本控制-->
-        <spring.version>4.1.7.RELEASE</spring.version>
+        <spring.version>6.0.0</spring.version>
         <slf4j.version>1.7.7</slf4j.version>
         <log4j.version>1.2.17</log4j.version>
         <json-lib.version>2.4</json-lib.version>
